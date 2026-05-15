@@ -1,24 +1,23 @@
 <h1 align="center">Hi, I'm Gabriel Andres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h1 align="center">
-  ▰▰▰ [ SYSTEM_OVERVIEW ] ▰▰▰ 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50">
+  ▰▰▰ [ SYSTEM_OVERVIEW ] ▰▰▰ 
 </h1>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300">
 
 **| Entry-Level Data Analyst | Data Science & Engineering Student |**
 
-Technical profile focused on the end-to-end data lifecycle, from cleaning and preprocessing complex datasets to performing deep statistical analysis and predictive modeling. Currently specializing in leveraging **Python** and **SQL** to transform raw information into actionable insights, solving business problems, and optimizing system performance through data-driven decisions
+Technical profile focused on the end-to-end data lifecycle, from cleaning and preprocessing complex datasets to performing deep statistical analysis and predictive modeling. Currently specializing in leveraging **Python** and **SQL** to transform raw information into actionable insights, solving business problems, and optimizing system performance through data-driven decisions.
 
 <br/>
 
+📡 **| Future_RoadMap & Interests |**
 
-#### 📡 [ FUTURE_ROADMAP & INTERESTS ]
-
-* **Data Engineering:** Aspiring to learn more about ETL pipelines and data architecture
-* **Cybersecurity:** Interested in eventually exploring data protection and threat detection
-* **Current Goal:** Building a strong foundation in Data Science for future specialization
+* **Data Engineering:** Aspiring to learn more about ETL pipelines and data architecture.
+* **Cybersecurity:** Interested in eventually exploring data protection and threat detection.
+* **Current Goal:** Building a strong foundation in Data Science for future specialization.
 
 ---
 
@@ -46,15 +45,15 @@ Technical profile focused on the end-to-end data lifecycle, from cleaning and pr
 
 ## 🌐 [ SECURE_UPLINK ]
 
+<p align="left">
 <a href="https://linkedin.com/in/gapedraza" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:g_andrespg57@gmail.com">
+<a href="mailto:g_andrespg57@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=60&section=footer" width="100%"/>
 </p>
-
----
