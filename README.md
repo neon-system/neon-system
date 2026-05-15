@@ -5,17 +5,35 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50">
 </h1>
 
-| Data Science & Engineering Student
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300">
 
-Technical profile focused on statistical analysis and predictive modeling. Currently specializing in data processing using **Python** and **SQL** to solve business problems and optimize system performance.
+**| Entry-Level Data Analyst | Data Science & Engineering Student |**
+
+Technical profile focused on the end-to-end data lifecycle, from cleaning and preprocessing complex datasets to performing deep statistical analysis and predictive modeling. Currently specializing in leveraging **Python** and **SQL** to transform raw information into actionable insights, solving business problems, and optimizing system performance through data-driven decisions
+
+<br/>
+
+
+### 📡 [ FUTURE_ROADMAP & INTERESTS ]
+
+* **Data Engineering:** Aspiring to learn more about ETL pipelines and data architecture
+* **Cybersecurity:** Interested in eventually exploring data protection and threat detection
+* **Current Goal:** Building a strong foundation in Data Science for future specialization
 
 ---
 
-### 📡 [ CURRENT_FOCUS & ROADMAP ]
+### 🛠 [ TECHNICAL_STACK ]
 
-* **Data Analysis:** Refining end-to-end pipelines and automated reporting.
-* **Data Engineering:** Developing efficient data architecture and ETL processes.
-* **Cybersecurity:** Exploring data protection, network security, and threat detection patterns.
-* **Goal:** Bridging the gap between secure infrastructure and advanced data intelligence.
+**Languages & Databases** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+**Data Science & Analysis** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Visualization & BI** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white)
+
+**Spreadsheets & Productivity** ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+**Development & Workflow** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+---
+
+---
