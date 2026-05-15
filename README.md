@@ -14,7 +14,7 @@ Technical profile focused on the end-to-end data lifecycle, from cleaning and pr
 <br/>
 
 
-### 📡 [ FUTURE_ROADMAP & INTERESTS ]
+#### 📡 [ FUTURE_ROADMAP & INTERESTS ]
 
 * **Data Engineering:** Aspiring to learn more about ETL pipelines and data architecture
 * **Cybersecurity:** Interested in eventually exploring data protection and threat detection
@@ -22,7 +22,7 @@ Technical profile focused on the end-to-end data lifecycle, from cleaning and pr
 
 ---
 
-### 🛠 [ TECHNICAL_STACK ]
+## 🛠 [ TECHNICAL_STACK ]
 
 **Languages & Databases** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -35,5 +35,26 @@ Technical profile focused on the end-to-end data lifecycle, from cleaning and pr
 **Development & Workflow** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
+
+## 📊 [ SYSTEM_METRICS ]
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neon-system&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 [ SECURE_UPLINK ]
+
+<a href="https://linkedin.com/in/gapedraza" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:g_andrespg57@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=60&section=footer" width="100%"/>
+</p>
 
 ---
